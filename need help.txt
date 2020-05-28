@@ -1,0 +1,3 @@
+install Node.js : https://nodejs.org/en/
+
+need more help : https://discord.gg/Qca3eKW
